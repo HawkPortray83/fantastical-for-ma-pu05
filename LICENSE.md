@@ -1,4 +1,4 @@
-#  
+#  Enhance Fantastical for macOS with Fantastical for macOS secure Utility: OCR scanning & goal tracking, the #1 utility. Includes OCR scanning and goal tracking for a smoother
 
 
 
